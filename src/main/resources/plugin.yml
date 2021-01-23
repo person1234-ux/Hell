@@ -19,3 +19,5 @@ permissions:
     default: false
   hell.iquit:
     default: true
+  hell.command.about:
+    default: true
