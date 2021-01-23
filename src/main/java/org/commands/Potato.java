@@ -19,5 +19,6 @@ public class Potato extends SimpleCommand {
 		Common.tell(player, "&9Person is better though");
 		player.getWorld().spawnEntity(player.getLocation(), EntityType.FIREWORK); // firewords
 
+
 	}
 }
