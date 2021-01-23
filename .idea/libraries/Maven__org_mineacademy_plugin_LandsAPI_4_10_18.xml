@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mineacademy.plugin:LandsAPI:4.10.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/LandsAPI/4.10.18/LandsAPI-4.10.18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/LandsAPI/4.10.18/LandsAPI-4.10.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/LandsAPI/4.10.18/LandsAPI-4.10.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

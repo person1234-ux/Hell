@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mineacademy.plugin:WorldGuard:7.0.4-SNAPSHOT-2061">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/WorldGuard/7.0.4-SNAPSHOT-2061/WorldGuard-7.0.4-SNAPSHOT-2061.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/WorldGuard/7.0.4-SNAPSHOT-2061/WorldGuard-7.0.4-SNAPSHOT-2061-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/WorldGuard/7.0.4-SNAPSHOT-2061/WorldGuard-7.0.4-SNAPSHOT-2061-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

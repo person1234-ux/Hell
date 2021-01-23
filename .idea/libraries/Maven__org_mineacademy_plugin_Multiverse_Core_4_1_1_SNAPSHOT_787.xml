@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mineacademy.plugin:Multiverse-Core:4.1.1-SNAPSHOT-787">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/Multiverse-Core/4.1.1-SNAPSHOT-787/Multiverse-Core-4.1.1-SNAPSHOT-787.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/Multiverse-Core/4.1.1-SNAPSHOT-787/Multiverse-Core-4.1.1-SNAPSHOT-787-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mineacademy/plugin/Multiverse-Core/4.1.1-SNAPSHOT-787/Multiverse-Core-4.1.1-SNAPSHOT-787-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
