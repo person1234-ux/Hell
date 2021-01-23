@@ -25,7 +25,11 @@ public class bowthatspawncats implements Listener {
 
 	@EventHandler
 	public void Bowshotevent(ProjectileLaunchEvent event){
+
 		final Projectile shot = event.getEntity();
+		if (event.getEntity() instanceof Player){
+			Player player = (Player) shot.getShooter();
+			if(!player.hasPermission("hell.catbow")) { return; } } // make it so that the player need catbow permissions to shoot the bot
 		if (shot instanceof Arrow && shot.getShooter() instanceof Player){
 			arrow.add(event.getEntity().getUniqueId()); // gets uuid of the arrow and stores in in the arrow set
 
