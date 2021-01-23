@@ -8,7 +8,6 @@
 #
 # NB: Please do not register commands here, these are done
 # directly in our plugin using Foundation :)
-#
 name: Hell
 version: ${project.version}
 main: ${main.class}
