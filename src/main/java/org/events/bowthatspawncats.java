@@ -13,15 +13,12 @@ import org.bukkit.event.entity.ProjectileLaunchEvent;
 import org.bukkit.scheduler.BukkitRunnable;
 import org.main.Hell;
 import org.mineacademy.fo.Common;
-import sun.plugin2.main.server.Plugin;
 
 import javax.xml.bind.SchemaOutputResolver;
 import java.security.PublicKey;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.UUID;
-import java.util.concurrent.TimeUnit;
-
 public class bowthatspawncats implements Listener {
 	Set<UUID> arrow = new HashSet<>();
 	Set<UUID> user = new HashSet<>();
